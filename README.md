@@ -1,16 +1,16 @@
-## Hi there 👋
+“🔹 Aspiring Full-Stack Developer | 🚀 Passionate about Python, Django, and JavaScript | 📈 Currently mastering Django | AI Enthusiast | 🌱 Always learning, always coding | 💻 Building projects and solving problems for real-world impact”
 
-<!--
-**damionbetters/DamionBetters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently focusing on:
+- Building full-stack applications with Javascript & Django.
+- Mastering HTML, CSS, JavaScript, Python, and AI techniques.
+- Solving problems through code and contributing to open-source projects.
 
-Here are some ideas to get you started:
+🛠️ Technologies & Tools
+- Languages: HTML, CSS, JavaScript, Python, SQL, C, C++
+- Frameworks: Django, React
+- Tools: Git, Docker, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Current Focus
+- Completing the 'Complete JavaScript Course' by Jonas Schmedtmann.
+- Learning React for building interactive front-end applications.
+- Exploring AI and Machine Learning with Python.
