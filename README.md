@@ -14,3 +14,7 @@ I’m currently focusing on:
 - Completing the 'Complete JavaScript Course' by Jonas Schmedtmann.
 - Learning React for building interactive front-end applications.
 - Exploring AI and Machine Learning with Python.
+
+💬 Reach Out
+Feel free to connect with me:
+- damionbetters@gmail.com
