@@ -1,7 +1,7 @@
 I'm a full-stack developer focused on building web applications. I'm actively learning new technologies, solving real-world problems, and contributing to open-source projects to continuously improve my skills. When not coding, I like to play board/video games, to cook, to eat, or to just enjoy the Michigan weather.
 <hr />
 
-> 🧰 Tools of the Trade
+> 🧰 Tools of the Trade <br />
 Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -11,6 +11,6 @@ Tech Stack
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
+<hr />
 💬 Reach Out:
 - damionbetters@gmail.com
