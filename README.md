@@ -2,7 +2,7 @@ I'm a full-stack developer focused on building web applications with HTML, C++, 
 
 # Check this out
 
-<span style="background-color: blue; color: black;">React 💪🏾</span> is awesome!
+<span style="background-color: blue; color: black;">React 💪🏾</span>
 
 
 💬 Reach Out
