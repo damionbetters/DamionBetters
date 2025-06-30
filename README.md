@@ -16,7 +16,8 @@ I'm a full-stack developer focused on building web applications. I'm actively le
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-___
+<img src="https://via.placeholder.com/600x1/cccccc/cccccc" alt="thin line" />
+
 
 
 
