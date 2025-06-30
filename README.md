@@ -17,6 +17,7 @@ When I’m not shipping apps or squashing bugs, you’ll find me dominating boar
 ![React](https://img.shields.io/badge/React-2025-blue?style=for-the-badge&logo=react&logoColor=white)
 
 ### 🛠️ Backend ⚙️
+![JSX](https://img.shields.io/badge/JSX-5ED3F3?style=for-the-badge&logo=react&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
