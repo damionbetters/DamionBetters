@@ -1,6 +1,8 @@
 I'm a full-stack developer focused on building web applications with HTML, C++, JavaScript, React, Node, Express, PostgreSQL, MySQL, Python, Django. I'm actively learning new technologies, solving real-world problems, and contributing to open-source projects to continuously improve my skills.
 
 ## ⚙️ Tech Stack
+![Downloads](https://img.shields.io/npm/dt/react?style=flat-square)
+
 > 🧰 Tools of the Trade
 <!-- Tech Stack -->
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
