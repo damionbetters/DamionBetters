@@ -2,8 +2,15 @@ I'm a full-stack developer focused on building web applications with HTML, C++, 
 
 # Check this out
 
-<span style="background-color: blue; color: black;">React 💪🏾</span>
+<span class="react-label">React 💪🏾</span>
 
+
+.react-label {
+  background-color: blue;
+  color: white;
+  padding: 0.2em 0.5em;
+  border-radius: 4px;
+}
 
 💬 Reach Out
 Feel free to connect with me:
