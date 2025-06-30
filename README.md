@@ -17,8 +17,6 @@ I'm a full-stack developer focused on building web applications. I'm actively le
 
 
 ---
-* * *
-___
 
 💬 Reach Out:
 - damionbetters@gmail.com
