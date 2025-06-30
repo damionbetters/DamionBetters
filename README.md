@@ -2,8 +2,9 @@ I'm a full-stack developer focused on building web applications with HTML, C++, 
 
 # Check this out
 
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)
-![React 💪🏾](https://img.shields.io/badge/React-💪🏾_Strong-blue?style=flat-square&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/React-2025-blue?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-green?style=flat&logo=node.js)
+
 
 
 💬 Reach Out
