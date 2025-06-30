@@ -1,6 +1,4 @@
 I'm a full-stack developer focused on building web applications. I'm actively learning new technologies, solving real-world problems, and contributing to open-source projects to continuously improve my skills. When not coding, I like to play board/video games, cook, eat, or just enjoy the Michigan weather.
-
-> 🧰 Tools of the Trade <br />
 ## ⚙️ Tech Stack Breakdown
 
 ### 🖥️ Frontend
