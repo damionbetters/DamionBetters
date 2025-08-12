@@ -42,5 +42,5 @@ Got a challenge that needs a relentless coder? Slide into my inbox:
 ---
 
 ## 🎯 Mission  
-Build software that’s not just functional but unforgettable. Every line of code a step closer to legendary.
+Build software that’s not just functional but unforgettable. Every line of code, a step closer to legendary.
 
